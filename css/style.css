@@ -1,0 +1,33 @@
+.container{ 
+    margin: 1rem 1rem 1rem 1rem;
+}
+
+.cabecalho{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 1rem;
+}
+
+.cabecalho-titulo{
+  font-size: large;
+  font-weight: 700; 
+
+}
+
+.cabecalho__topics{
+    display: none;
+    margin-top: 0.5rem ;
+    
+}
+
+.sobre__titulo{
+    font-size: 14px;
+    font-weight: 400;
+    font-weight: bolder;
+}
+
+.descricao__texto{
+    font-size: 12px;
+    margin-top: 1rem;
+}
