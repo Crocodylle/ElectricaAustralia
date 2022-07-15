@@ -1,0 +1,14 @@
+.duvidas__titulo {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.duvidas__texto{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.duvidas__texto--basictoolslink{
+    color: blue;
+    font-weight: bolder;
+}
